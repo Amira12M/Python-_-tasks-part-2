@@ -1,4 +1,5 @@
-# Create a code generator . create 2 functions , the first one takes text as input , replaces each letter with another letter , and outputs the "encoded" message ., the second one "decoded" the message to the original text.
+# Create a code generator . create 2 functions , the first one takes text as input , replaces each letter with another letter ,
+#and outputs the "encoded" message ., the second one "decoded" the message to the original text.
 
 def encoder (password):
   key = "amira"
